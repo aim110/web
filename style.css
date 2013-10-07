@@ -1,3 +1,8 @@
+.plane {
+    color: black; // TBD: setup default color for body and return it here
+}
+
 .checked-off {
+    color: grey;
     text-decoration: line-through;
 }
